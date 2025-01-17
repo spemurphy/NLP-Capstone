@@ -1,0 +1,12 @@
+name: nlp-app
+title: nlp-app
+username: spemurphy
+account: spemurphy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13716322
+bundleId: 9655781
+url: https://spemurphy.shinyapps.io/nlp-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

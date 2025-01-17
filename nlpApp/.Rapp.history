@@ -1,0 +1,2 @@
+load("/Users/seanmurphy/Desktop/DS_coursera/NLP-Capstone/nlpApp/ngramdata.RData")
+load("/Users/seanmurphy/Desktop/DS_coursera/NLP-Capstone/nlpApp/transition_matrices.rds")
